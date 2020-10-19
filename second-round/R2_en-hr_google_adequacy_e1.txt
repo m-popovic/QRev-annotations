@@ -16,7 +16,7 @@ Ovo|None je|None učinkovita|None noćna|None krema|None (s|None aktivnim|None i
  Izvrsno|Major preporučeno.|None 
  LP|Major ,|None Melbourne.|None Australija|None 
 Dosadni|None likovi|None 
-Koncept|None ove|None knjige|None bio|None mi|None je|None zanimljiv,|None ali|None ova|None knjiga|None je|None dosadna.
+Koncept|None ove|None knjige|None bio|None mi|None je|None zanimljiv,|None ali|None ova|None knjiga|None je|None dosadna.|None 
  Likovi|None su|None jednodimenzionalni,|None a|None glavni|None lik|None je|None hrom|Major .|None 
  Odlučio|None sam|None to|Minor ne|None završiti|None nakon|None što|None sam|None pročitao|None druge|None kritike|None koje|None kažu|None da|None je|None gubljenje|None vremena|None (|None prešao|Minor sam|None otprilike|None na|Minor pola|Minor puta|Minor ).|None 
 Lažni|None motivi|None 
@@ -32,8 +32,8 @@ Ovaj|None roman|None Agatha|Minor Christie|None ima|None ukusno|Minor složen|No
 Dobar|Major posao|Major za|None čitanje|None 
 Kupio|None sam|None ovu|None knjigu|None jer|None mi|None se|None svidio|None naslov.|None 
  Stil|None pisanja|None je|None najveći|None problem|None koji|None sam|None imao|None s|None ovom|None pričom.|None 
- To|None je|None knjiga|None koju|None biste|None u|None svakom|None trenutku|None mogli|None postaviti|Major i|None nikad|None je|None više|None ne|None pok
- upiti.|None Morao|None sam|None natjerati|None sebe|Minor da|None ovo|None pročitam,|None a|Minor ponekad|None je|None bilo|None mučno.|None 
+ To|None je|None knjiga|None koju|None biste|None u|None svakom|None trenutku|None mogli|None postaviti|Major i|None nikad|None je|None više|None ne|None pokupiti.|None 
+ Morao|None sam|None natjerati|None sebe|Minor da|None ovo|None pročitam,|None a|Minor ponekad|None je|None bilo|None mučno.|None 
  Kao|None što|None je|None rečeno,|None i|None sama|None priča|None priče|Major prilično|None je|None dobra,|None što|None je|None spasilo|None ovu|None knjigu|None da|None od|None mene|None dobije|None jednu|None zvijezdu|Minor umjesto|None dvije.|None 
  Film|None još|None nisam|None pogledao,|None ali|None moja|None je|None sklonost|None da|None bi|None bilo|Minor puno|Minor bolje|Minor od|None čitanja|None knjige|None ...|None a|None ako|None ne,|None barem|None bi|None bilo|Minor gotovo|Minor za|None 2|None sata!|None 
 bijedan|None 

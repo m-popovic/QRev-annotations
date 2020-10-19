@@ -313,7 +313,7 @@ Kupio|None sam|None ih|None kad|None sam|None kupio|None klizaljke|None i|None k
  NE|None KUPUJTE!!!|None 
 Odaberite|None pobjednika|None nasumce.|None 
 Nema|None strategije|None za|None ovu|None igru.|None 
- Uvjeti|None pobjede|None se|None stalno|None mijenjaju|None tako|Major da|Major ne|Major možemo|Major znati|Major tko|None je|None blizu|None pobjede.
+ Uvjeti|None pobjede|None se|None stalno|None mijenjaju|None tako|Major da|Major ne|Major možemo|Major znati|Major tko|None je|None blizu|None pobjede.|None 
  Netko|Minor jednostavno|Minor pobjeđuje|Minor niotkuda.|Minor 
  To|None je|None u|None osnovi|None isto|None kao|None bacanje|None kockica|None vidjeti|Minor tko|Minor pobjeđuje|Minor .|None 
  Nevjerojatno|None je|None dosadno|None i|None zbunjen|None sam|None što|Minor ga|Minor ljudi|None cijene|Major tako|None visoko.|None 
@@ -449,7 +449,7 @@ Stvoritelj|None Donnie|Minor Darko|Minor donosi|None vam|None tematsku|Minor pri
  To|None je|None uznemirujuće|None i|None provokativno|None pitanje|None neizvjesno|None navedeno|Major u|None prikolici|Major i|None TV|None spotovima|Minor .|None 
  Ali|None neka|None se|None zna|None da|None jednostavno|None ne|None znate|None što|Major ste|Major u|Major za|Major dok|None ga|None ne|None vidite.|None 
  S|None vremena|None na|None vrijeme|None pretenciozan|None i|None pomalo|None melodramatičan|None film|None je|None u|None konačnici|None učinkovit|None zbog|None dobrih|None izvedbi|None i|None intrigantne|None teme.|None 
- Bilo|None bi|None nepravedno|None uništiti|None bilo|None koji|None od|None zapleta|Minor zapleta|Minor za|None vas,|None ali|None recimo|None samo|None da|None će|None film|None dostaviti|None na|Minor aspekte|Minor koje|Minor očekujete|Minor ,|None a|Minor ne|Minor u|Minor potpunosti|Minor ispuniti|Minor druge|Minor koje|Minor počinje|Minor opisivat|Minor i.|None 
+ Bilo|None bi|None nepravedno|None uništiti|None bilo|None koji|None od|None zapleta|Minor zapleta|Minor za|None vas,|None ali|None recimo|None samo|None da|None će|None film|None dostaviti|None na|Minor aspekte|Minor koje|Minor očekujete|Minor ,|None a|Minor ne|Minor u|Minor potpunosti|Minor ispuniti|Minor druge|Minor koje|Minor počinje|Minor opisivati|Minor .|None 
  U|None filmu|None ima|None dosta|None očigledne|None simbolike|None i|None podteksta|None što|None je|None XXX|Minor zanimljivo|None i|None neugodno|Major jer|None to|None nije|None bilo|None tako|None vidljivo|None u|None njegovom|Minor drugom|Minor superiornom|Minor filmu|Minor Donnie|None Darko.|None 
  Nema|Minor puno|Minor toga|Minor za|Minor reći|Minor ,|None a|None da|None vam|None ne|None uništim|None film.|None 
  To|Major je|Major značilo|Major da|Major inspiriše|Minor puno|None caffe|Major brbljanje|Major nakon|Minor toga|Minor .|None 

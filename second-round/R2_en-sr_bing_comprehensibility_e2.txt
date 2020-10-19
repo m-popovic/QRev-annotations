@@ -172,7 +172,7 @@ Velika|None prodavnica|None koja|None se|None sada|None nalazi|None u|None svako
  S|None obzirom|None da|None ovo|None još|None uvek|None funkcioniše,|None imam|Major drugu|Major dvojicu|Major da|Major se|Major vrate|Major kada|Major ovaj|Major konačno|Major izađe|Major .|None 
  Ovo|None je|None veliki|None punjač|None automobila,|None i|None ne|None košta|None u|Minor blizini|Minor koliko|Minor i|Minor smeće|None koje|None dobiješ|None u|None lokalnoj|None radnji--da|None ne|None pominjem|None da|None je|None ovo|None punjač|None od|None Samsung|Minor Brand|Minor stihove|Major .|None 
 Čvrst|Major slučaj|Major 
-Dobar|Major slucaj|Major ,|None čvrsta|Minor građa.
+Dobar|Major slucaj|Major ,|None čvrsta|Minor građa.|None 
  Štiti|Major telefon|Major sa|Major dobrim|Major pristupom|Major dugmadima|Major .|None 
  Troškovi|Major baterije|Major sa|Major punom|Major baterijom|Major će|Major trajati|Major ceo|Major dan|Major .|None 
  Obično|None ostavljam|Minor kuću|None oko|None 7|None časova|None i|None vratim|None se|None u|None 10|None popodne.|None 

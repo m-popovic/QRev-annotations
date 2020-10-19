@@ -153,7 +153,7 @@ Previše|None debeo|None
 Ovo|None je|None moj|None prvi|None gitarski|None pojas,|None nije|None dobro|Minor uklapanje,|None veza|None sa|None gitarom|None je|None previše|None gusta|Minor ,|None pokušavam|Major da|Major ga|Major ne|Major uklonim|Major prečesto|Major jer|None je|None veoma|None nezgodno|None i|Major teško|Major upravljati|Major .|None 
  Osim|None da|Minor je|None upotrebljiv,|None na|None neki|None način,|None ali|Major mislim|Major da|Major dobijem|Major neku|Major vrstu|Major metalne|Major kuke|Major umesto|Major toga,|Major debela|Major koža|Major je|Major tako|Major neprijatno|Major da|Major se|Major bavi|Major .|None 
 Ide|Major da|Major ih|Major za|Major sve|Major moje|Major gitare|Major 
-Veoma|None visok|None kvalitet|None izgledaju|None lepo|None kao|None moji|None Fender|None originali.
+Veoma|None visok|None kvalitet|None izgledaju|None lepo|None kao|None moji|None Fender|None originali.|None 
  Obavezno|None uzmite|Major vremena|None da|None ih|None pravilno|None instalirate|Minor i|None razmislite|None o|None korišćenju|None kvalitetnog|None lepka|None za|None drvo|None /lepka|Major tokom|None instalacije|Minor .|None 
  Želite|None da|None se|None uverite|None da|None se|None mogu|None ukloniti|None kasnije|None bez|None oštećenja|None gitare.|None 
 DVD|None za|None mačke|None 
