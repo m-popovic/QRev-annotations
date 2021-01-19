@@ -1,0 +1,43 @@
+Introspektivni|None|Minor pogled|None|None na|None|None odnos|None|None između|None|None Havkinga|NE|None|Minor i|None|None prostora|NOUN_PHRASE|Minor /|NOUN_PHRASE|Minor vremena|NOUN_PHRASE|Minor kontingenta|NOUN_PHRASE|Minor .|None|None 
+ Ovaj|None|None film|None|None otkriva|None|None galilejske|NE|None|Minor i|None|None nevtonske|NE|None|Minor zakone|None|None i|None|None veza|None|Major je|SOURCE_ERROR|Major za|None|None Einsteinovu|None|None teoriju|None|None opšte|None|None relativnosti.|None|None 
+ Film|None|None je|None|None metodički|AMBIGUITY|Minor režiran,|None|None izlaže|None|None detalje|None|None o|None|None čoveku|None|None (|None|None Havking|NE|None|Minor )|None|None kao|None|None i|None|None o|None|None njegovom|None|None radu|None|None (|None|None Black|NE|None|None Holes|NE|None|None ).|None|None 
+ Razgovori|None|None s|None|None njegovom|None|None porodicom|None|None malo|None|None su|None|None predugi,|None|None pa|None|None je|MISTRANSLATION|None nažalost|None|None manje|None|None razvoja|None|None njegovih|None|None teorija|None|None i|None|None ideja.|None|None 
+ Filmska|NOUN_PHRASE|None filmska|REP+NOUN_PHRASE|Minor muzika|NOUN_PHRASE|None Philip|NE+NOUN_PHRASE|Minor Glass|NE+NOUN_PHRASE|Minor odlično|None|None se|EXT|None|None pohvali|SOURCE_ERROR|Major film|None|Major .|None|None 
+ Samo|None|None je|None|None još|None|None jedan|None|None čovek|None|None mogao|None|None da|None|None komponuje|None|None ovakve|None|None jezive|None|None zvjezdane|SOURCE_ERROR|Minor melodije|None|None (Jean|None|None Michel|None|None Jarre).|None|None 
+ Sve|None|None u|None|None svemu,|None|None toplo|None|None bih|None|None preporučio|None|None ovaj|None|None film|None|None na|None|None osnovu|None|None Havkingovih|NE|None|Minor '|NOUN_PHRASE|None mudrica|REP+NOUN_PHRASE|Major mudrosti|NOUN_PHRASE|Major '|NOUN_PHRASE|None i|None|None njegovog|None|None adekvatnog|None|None objašnjenja|None|None Horizonta|NOUN_PHRASE|None događaja|NOUN_PHRASE|None !|None|None 
+Bože|None|None moj|None|None ...|None|None nisam|None|None video|None|None tako|None|None grozan|None|None film|None|None dugo|None|None ...|None|None dugo|None|None vremena|None|None …|None|None 
+ video|None|Minor sam|None|None ga|None|None sinoć|None|None i|None|None hteo|None|None da|None|None odem|None|Minor posle|None|None 20|None|None minuta|None|None ...|None|None 
+ Keira|NE|None|None Knightlei|NE|None|Minor se|None|None trudi|None|None u|None|None ovom|extPRON|None|None jako,|None|None ali|None|None ona|extPRON|None|Minor ne|None|None mogu|PERSON|None|None to|None|None da|None|None podnesem|PERSON+AMBIGUITY|None ..|None|None povremeno|None|None je|None|Major naglašavao|GENDER+MISTRANSLATION|Major i|None|None nije|None|None imao|GENDER|None|Minor harizmu|None|None da|None|None ispuni|None|Major ulogu|None|None ...|None|None 
+ silenarski|NE+NOUN_PHRASE|Major mlinari|NE+NOUN_PHRASE|Major vas|None|None dovode|PERSON|None|None do|None|None tačke|None|None u|None|None kojoj|None|None se|None|None počnete|None|None pitati:|None|None Da|None|None li|None|None je|None|None ikad|None|None imala|None|None časove|None|None glume?|None|None 
+ sudeći|None|None po|None|None rubu|NE|None|Major ljubavi|NE|None|Major ,|None|None ona|None|None nikada|None|None nije|None|None bila|None|None na|None|None nastavi|MISTRANSLATION|Major glume,|None|None ali|None|None treba|None|None razmisliti|MOOD+PERSON|None|None da|None|None počnu|PERSON|None|Minor u|None|None bliskoj|None|None budućnosti|None|None …|None|None 
+ oboje|GENDER|None|None izgledaju|None|None prilično|None|Minor lepo|None|None ...|None|None 
+ svi|None|Major mogu|None|Major !|None|None 
+Izvrsno|None|None za|None|None anemiju|None|None 
+Zahvaljujući|AMBIGUITY|None drugim|None|None recenzentima|None|None koji|None|None su|None|None me|None|None uputili|None|None na|None|None ovaj|None|None proizvod|None|None kada|None|None su|None|None mi|None|None rekli|None|None da|None|None sam|None|None anemičan.|None|None 
+ Sada|None|None ih|None|None uzimam|None|None oko|None|None 4|None|None meseca|None|None i|None|None anemije|None|None više|None|None nema.|None|None 
+ Dobar|None|None proizvod.|None|None 
+ Lako|None|None se|None|None probavlja|None|None (za|None|None razliku|None|None od|None|None nekih|None|None drugih|None|None dodataka|NOUN_PHRASE|Minor gvožđu|NOUN_PHRASE|Minor ).|None|None 
+Avesome|NON_EXISTING|Major 
+Ovo|None|None je|None|None jedan|None|None od|None|None mojih|None|None najdražih|None|None deserta|None|Major i|None|None brzo|None|None se|None|None topi|None|None u|None|None ustima.|None|None 
+ Ova|None|None marka|None|Major je|None|None dobra|None|None i|None|None isporučuje|None|Minor se|None|Minor dobro|None|Minor upakovana|None|Minor .|None|None 
+ Svi|None|None bi|None|None trebali|None|Minor ovo|None|None jednom|None|Major probati|None|Minor .|None|None 
+ Amazonska|NE+NOUN_PHRASE|Minor cijena|NOUN_PHRASE|None je|None|None puno|None|None bolja|None|None od|None|None one|None|None koju|None|None pronađete|ASPECT|None|Minor na|None|None sajmovima|None|None nauke.|None|None 
+ODLIČNO|None|None ZA|None|None MLADE|None|None I|None|None STARE|None|None 
+Ovo|None|None je|None|None fantastična|None|None slagalica|None|None /|None|None poklon|None|None za|None|None mlade|None|None I|None|Minor stare.|None|None 
+ To|None|None su|None|None 32|None|None trokutasta|HR|None|None jaka|None|None magnetna|None|None dela|None|None koja|None|None se|None|None mogu|None|None uklopiti|None|None na|None|None različite|None|None načine.|None|None 
+ Jednostavno|None|None je|None|None sjajno|None|None i|None|None imaćete|None|None problema|None|Minor sa|ING|None|Minor držanjem|ING|None|Minor podalje|None|None od|None|None odraslih.|None|None 
+Još|None|None jedan|None|None loš|None|None zombi|NOUN_PHRASE|Minor film|NOUN_PHRASE|Minor .|None|None 
+To|None|None je|None|None još|None|None jedan|None|None loš|None|None zombi|NOUN_PHRASE|Minor film|NOUN_PHRASE|Minor .|None|None 
+ U|None|None poređenju|None|None sa|None|None većinom|None|None ostalih,|None|None jedina|None|None razlika|None|None je|None|None što|None|None je|None|None glavni|None|None lik|None|None žensko.|None|None 
+ Zaplet|None|None je|None|None isti.|None|None 
+ Akcijske|NOUN_PHRASE|Minor scene|NOUN_PHRASE|None nisu|None|None privlačne|AMBIGUITY|Minor .|None|None 
+ Tako|MISTRANSLATION|Minor su|None|Minor i|None|None specijalni|None|None efekti.|None|None 
+Nije|None|None baš|None|None dobro|None|None napravljen|None|None 
+IoIo|NON_EXISTING|Major izgleda|None|None van|None|None ravnoteže.|None|None 
+ Bez|None|None obzira|None|None na|None|None to|None|None koliko|None|None brige|REPHRASING|Major sam|REPHRASING|Major koristio|REPHRASING|Major u|REPHRASING|Major bacanju|REPHRASING|Major ,|None|None hteo|None|None je|None|None da|None|None se|None|None nagne|ASPECT|None|None na|None|None jednu|None|None stranu.|None|None 
+ Teško|REPHRASING|None je|REPHRASING|None zaspao|REPHRASING|Major ili|REPHRASING|None radio|REPHRASING|None trikove|REPHRASING|None .|None|None 
+ Imam|None|None malo|None|None iskustva|None|None sa|None|None IoIos-om|NON_EXISTING|Major i|None|None nisam|None|None imao|None|None ovaj|None|None problem|None|None sa|None|None ostalim|NUMBER|None|None .|None|None 
+apsolutno|None|None prekratak|None|None da|None|None bi|None|None bio|None|None efektivan|AMBIGUITY|Major 
+Ako|None|None pravilno|None|None upletete|MISTRANSLATION|Major zglobove|None|Major ,|None|None videćete|None|None da|None|None su|None|None i|None|None preuska|None|None i|None|None prekratka|GENDER|None|None ,|None|Major prekratka|GENDER|None|Major .|None|None 
+ Ne|None|None uzimajte|None|None ih|None|None ako|None|None udarite|ASPECT|None|Minor u|None|None tešku|None|None torbu|AMBIGUITY|Major .|None|None 
+ Oni|None|None jednostavno|None|None neće|None|None zaštititi|None|None /|None|None podržati|AMBIGUITY|Major vaše|None|None zglobove|NOUN_PHRASE|None ili|NOUN_PHRASE|None ručne|NOUN_PHRASE|None zglobove|NOUN_PHRASE|None .|None|None 

@@ -1,0 +1,43 @@
+An|None|None introspective|None|None look|None|None at|None|None the|None|None relationship|None|None between|None|None Hawking|NE|None|None and|None|None the|None|None space/time|NOUN_PHRASE|None contingent|NOUN_PHRASE|None .|None|None 
+ This|None|None film|None|None expores|None|None the|None|None Gallilean|NE|None|None and|None|None Newtonian|NE|None|None laws|None|None and|None|None there|SOURCE_ERROR|None relation|None|None to|PREPOSITION|None|None Einstein's|None|None Theory|None|None of|None|None General|None|None Relativity.|None|None 
+ The|None|None film|None|None is|None|None methodically|AMBIGUITY|None directed,|None|None exposing|None|None details|None|None of|None|None the|None|None man|None|None (|None|None Hawking|NE|None|None )|None|None as|None|None well|None|None as|None|None his|None|None work|None|None (|None|None Black|NE|None|None Holes|NE|None|None ).|None|None 
+ Interviews|None|None with|None|None his|None|None family|None|None are|None|None a|None|None little|None|None too|None|None long|None|None so|None|None sadly|None|None there|None|None is|None|None less|None|None development|None|None of|None|None his|None|None theories|None|None and|None|None ideas.|None|None 
+ A|None|None Philip|NE+NOUN_PHRASE|None Glass|NE+NOUN_PHRASE|None soundtrack|NOUN_PHRASE|None superbly|None|None compliments|SOURCE_ERROR|None the|None|None film.|None|None 
+ Only|None|None one|None|None other|None|None man|None|None could|None|None compose|None|None such|None|None haunting|None|None instellar|SOURCE_ERROR|None melodies|None|None (Jean|None|None Michel|None|None Jarre).|None|None 
+ Overall|None|None I|None|None would|None|None highly|None|None recommend|None|None this|None|None movie|None|None on|None|None the|None|None basis|None|None of|None|None Hawking's|NE|None|None 'nuggets|NOUN_PHRASE|None of|NOUN_PHRASE|None wisdom'|NOUN_PHRASE|None and|None|None his|None|None adequate|None|None explanation|None|None of|None|None an|None|None Event|None|None Horizon!|None|None 
+My|None|None god...i|None|None have|None|None not|None|None seen|None|None such|None|None an|None|None awful|None|None movie|None|None in|None|None a|None|None long...long|None|None time…|None|None 
+ saw|None|None it|None|None last|None|None night|None|None and|None|None wanted|None|None to|None|None leave|None|None after|None|None 20|None|None minutes…|None|None 
+ keira|NE|None|None knightley|NE|None|None tries|None|None really|None|None really|None|None hard|None|None in|None|None this|extPRON|None|None one|extPRON|None|None ,|None|None but|None|None she|extPRON|None|None cant|PERSON|None|None handle|PERSON+AMBIGUITY|None it..|None|None dropped|GENDER+MISTRANSLATION|None her|MISTRANSLATION|None accent|MISTRANSLATION|None every|None|None once|None|None in|None|None a|None|None while|None|None and|None|None didn't|None|None have|GENDER|None|None the|None|None charisma|None|None to|None|None fill|None|None the|None|None role…|None|None 
+ sienna|NE+NOUN_PHRASE|None millers|NE+NOUN_PHRASE|None acting|NOUN_PHRASE|None gets|PERSON|None|None you|None|None to|None|None a|None|None point|None|None where|None|None you|None|None start|None|None to|None|None ask|None|None yourself:|None|None Has|None|None she|None|None ever|None|None had|None|None acting|None|None lessons?|None|None 
+ judging|None|None by|None|None the|None|None edge|NE|None|None of|NE|None|None love|NE|None|None shes|None|None never|None|None been|None|None to|None|None acting|None|None class|MISTRANSLATION|None ,|None|None but|None|None should|MOOD|None|None consider|PERSON|None|None to|None|None go|PERSON|None|None in|None|None the|None|None near|None|None future…|None|None 
+ they|None|None both|GENDER|None|None look|None|None really|None|None pretty..maybe|None|None thats|None|None what|None|None they|None|None should|None|None focus|None|None on|None|None in|None|None their|None|None future|None|None career..|None|None 
+ if|None|None they|None|None can|None|None be|None|None actresses|None|None everybody|None|None can!|None|None 
+Great|None|None for|None|None anemia|None|None 
+Thanks|AMBIGUITY|None to|None|None other|None|None reviewers|None|None who|None|None directed|None|None me|None|None to|None|None this|None|None product|None|None when|None|None I|None|None was|None|None told|None|None I|None|None was|None|None anemic.|None|None 
+ Now|None|None been|None|None taking|None|None these|None|None for|None|None about|None|None 4|None|None months|None|None and|None|None the|None|None anemia|None|None is|None|None gone.|None|None 
+ Good|None|None product.|None|None 
+ Easily|None|None digested|None|None (unlike|None|None some|None|None other|None|None iron|NOUN_PHRASE|None supplements|NOUN_PHRASE|None ).|None|None 
+Awesome|NON_EXISTING|None 
+This|None|None is|None|None one|None|None of|None|None my|None|None favorite|None|None desserts,|None|None and|None|None melts|None|None quickly|None|None in|None|None the|None|None mouth.|None|None 
+ This|None|None brand|None|None is|None|None good|None|None and|None|None it|None|None shipped|None|None well-packaged.|None|None 
+ Everyone|None|None should|None|None try|None|None this|None|None once.|None|None 
+ The|None|None amazon|NE+NOUN_PHRASE|None price|NOUN_PHRASE|None is|None|None much|None|None better|None|None than|None|None the|None|None ones|None|None you|None|None find|ASPECT|None|None at|None|None science|None|None fairs.|None|None 
+EXCELLENT|None|None FOR|None|None YOUNG|None|None AND|None|None OLD|None|None 
+This|None|None is|None|None a|None|None fantastic|None|None puzzle/gift|None|None for|None|None young|None|None AND|None|None old.|None|None 
+ It|None|None is|None|None 32|None|None triangular|HR|None|None strong|None|None magnetic|None|None pieces|None|None that|None|None can|None|None fit|None|None together|None|None in|None|None a|None|None wide|None|None number|None|None of|None|None ways.|None|None 
+ It's|None|None just|None|None great|None|None and|None|None you'll|None|None have|None|None trouble|None|None keeping|ING|None|None it|None|None away|None|None from|None|None the|None|None adults.|None|None 
+Another|None|None bad|None|None zombie|NOUN_PHRASE|None movie|NOUN_PHRASE|None .|None|None 
+It's|None|None another|None|None bad|None|None zombie|NOUN_PHRASE|None movie|NOUN_PHRASE|None .|None|None 
+ Compared|None|None to|None|None the|None|None majority|None|None of|None|None thhe|None|None others,|None|None the|None|None only|None|None difference|None|None here|None|None is|None|None the|None|None main|None|None character|None|None is|None|None a|None|None female.|None|None 
+ The|None|None plot|None|None is|None|None the|None|None same.|None|None 
+ The|None|None action|NOUN_PHRASE|None scenes|NOUN_PHRASE|None are|None|None not|None|None engaging|AMBIGUITY|None .|None|None 
+ Special|None|None effects|None|None are|None|None so|MISTRANSLATION|None so|MISTRANSLATION|None .|None|None 
+Not|None|None very|None|None well|None|None made|None|None 
+YoYo|NON_EXISTING|None seems|AMBIGUITY|None out|None|None of|None|None balance.|None|None 
+ No|None|None matter|None|None howmuch|REPHRASING|None care|REPHRASING|None I|REPHRASING|None used|REPHRASING|None in|REPHRASING|None throwing|REPHRASING|None it|REPHRASING|None ,|None|None it|None|None wantedto|None|None tilt|ASPECT|None|None to|None|None one|None|None side.|None|None 
+ Made|REPHRASING|None it|REPHRASING|None difficult|REPHRASING|None tosleep|REPHRASING|None or|REPHRASING|None do|REPHRASING|None tricks|REPHRASING|None .|None|None 
+ I|None|None have|None|None a|None|None little|None|None experiencewith|None|None YoYos|NON_EXISTING|None and|None|None have|None|None not|None|None had|None|None this|None|None problem|None|None withothers|NUMBER|None|None .|None|None 
+absolutely|None|None too|None|None short|None|None to|None|None be|None|None effective|AMBIGUITY|None 
+If|None|None you|None|None wrap|MISTRANSLATION|None your|None|None wrists|None|None properly,|None|None you'll|None|None see|None|None these|None|None are|None|None both|None|None too|None|None narrow|GENDER|None|None and|None|None too|None|None short|GENDER|None|None ,|None|None way|None|None too|None|None short|GENDER|None|None .|None|None 
+ Do|None|None not|None|None get|None|None these|None|None if|None|None you|None|None are|None|None hitting|ASPECT|None|None the|None|None heavy|None|None bag|AMBIGUITY|None .|None|None 
+ They|None|None just|None|None won't|None|None protect/|None|None support|AMBIGUITY|None your|None|None wrists|NOUN_PHRASE|None or|NOUN_PHRASE|None knuckles|NOUN_PHRASE|None .|None|None 
