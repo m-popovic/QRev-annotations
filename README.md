@@ -16,22 +16,33 @@ three online systems (Amazon, Bing, Google) and two in-house systems (DCU-genera
 In total, 1500 review translations were created, 
 The outputs are then given to human evaluators which highlighted all translation errors.
 
-The evaluators were asked to annotate comprehension (comprehensibility, readability) errors (without access to the original source text), and afterwards to annotate adequacy (accuracy, fidelity) errors (by comparing the translation to the original source text). 
+The evaluators were asked to annotate comprehension (comprehensibility, readability) errors (without access to the original source text), and afterwards to annotate adequacy (accuracy, fidelity) errors (by comparing the translation to the original source text). For each criterion, the evaluators were asked to distingush between Major and Minor errors. 
 Each translation output was annotated by at least two evaluators.  In total, 15 evaluators participated in the annotation. 
 
+When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues. 
 
-When the highlighting errors was finished, one evaluator analysed the annotations and identified their error types and causes. 
+The format of the annotations is:
+
+word|highlight|issue-type
 
 
 The analysed MT outputs are divided in three rounds:
 
--- first preliminary round covering a short text translated by Amazon and Google
+"first-round":  first preliminary round covering a short text translated by Amazon and Google
 
--- second round covering the remaining source text translated by Amazon, Bing and Google
+"second-round": covering the remaining source text translated by Amazon, Bing and Google
 
--- third round covering the translations by the two in-house systems
+"third round":  covering the translations by the two in-house systems
 
 
+There are two more folders: 
+
+"src+hyp+ref": contains all MT outputs (not only annoated) together with the source text and the reference translations into two target languages. 
+
+"initial-analysis" contains results of initial analysis of relation between  comprehensibility and adequacy errors published at CoNLL 2020
+
+
+This data set is publicly available for use under Creative Commons CC-BY. 
 If you use any part of this data set, please cite the COLING paper (2020) which introduces it: 
 
 @inproceedings{evaluation20,
