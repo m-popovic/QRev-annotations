@@ -13,7 +13,7 @@ Amazon product reviews https://jmcauley.ucsd.edu/data/amazon/
 They were translated into Croatian and into Serbian by five MT systems: 
 three online systems (Amazon, Bing, Google) and two in-house systems (DCU-general-domain and DCU-review-domain) 
 
-In total, 1500 review translations were created (150 reviews translated by five MT systems into two target languages, 150*5*2). However, not all translated reviews were annotated, only a subset consisting of 412 translated reviews (consisting of 3248 segments). 
+In total, 1500 review translations were created (150 reviews translated by five MT systems into two target languages, 150*5*2). However, not all translated reviews were annotated, only a subset consisting of 452 translated reviews. 
 
 These selected MT outputs were first given to human evaluators which highlighted all translation errors.
 
