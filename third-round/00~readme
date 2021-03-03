@@ -1,1 +1,21 @@
-description of the third round
+MT outputs from two DCU systems:  
+dcu-gen = trained on all publicly available parallel texts in OPUS from mixed domain
+dcu-rev = trained on synthetically created (forward-translation) parallel text of user reviews and part of publicly available parallel data from OpenSubtitles
+(generated in September 2020) 
+
+reviews: 87
+segments: 888
+source words (untokenised): 13033
+
+en-hr: 2 annotators
+
+system  reviews segments  words
+dcu-gen: 27     217       2804   
+dcu-rev: 26     196       2753  
+
+
+en-sr: 2 annotators
+
+system  reviews segments  words
+dcu-gen: 29     237       2960   
+dcu-rev: 29     238       3101
