@@ -28,18 +28,11 @@ Each translation output was annotated by at least two evaluators.
 If you use any part of this data set, please cite the COLING paper (2020) which introduces it: 
 
 @inproceedings{evaluation20,
-
 Title = {Informative Manual Evaluation of Machine Translation Output},
-
 Author = {Maja Popovi\'{c}},
-
 BookTitle = {Proceedings of the 28th International Conference on Computational Linguistics(COLING  2020)},
-
 year = {2020},
-
 month = {December},
-
 address = {Online},
-
 }
 
