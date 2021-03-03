@@ -10,7 +10,6 @@ Amazon product reviews https://jmcauley.ucsd.edu/data/amazon/
 
 
 In total, 150 reviews were selected (122 Amazon reviews and 28 IMDb reviews) and translated into Croatian and into Serbian by five MT systems: 
-
 three online systems (Amazon, Bing, Google) and two in-house systems (DCU-general-domain and DCU-review-domain) 
 
 
