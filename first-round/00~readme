@@ -1,18 +1,22 @@
 Preliminary round on short text
 
-Amazon and Google MT outputs annotated by several annotators
+Amazon and Google MT outputs
+(generated in January 2020)
 
 
 reviews: 14
 segments: 43
 source words (untokenised): 486
 
-en-hr
-annotators: 3
-target words -- Amazon: 434
-                Google: 417
 
-en-sr
-annotators: 4
-target words -- Amazon: 440
-                Google: 438
+en-hr: 3 annotators
+
+system  reviews segments  words
+Amazon: 14      43        434
+Google: 14      43        417
+
+en-sr: 4 annotators
+
+system  reviews segments  words
+Amazon: 14      43        440
+Google: 14      43        438
