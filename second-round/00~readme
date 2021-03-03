@@ -1,1 +1,20 @@
-description of the second round
+MT outputs from Amazon, Bing and Google
+(generated in January 2020) 
+
+reviews: 142
+segments: 1,127
+source words (untokenised): 16,375
+
+en-hr: 2 annotators
+
+system  reviews segments  words
+Amazon: 62      514       7,631
+Bing:   35  
+Google: 54      424       6,316
+
+en-sr: 2 annotators
+
+system  reviews segments  words
+Amazon: 49      389       6,083
+Bing:   38
+Google: 47      357       5,550
