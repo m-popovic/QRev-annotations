@@ -1,1 +1,16 @@
-Annotations from the first round.
+Google and Bing MT outputs annotated by several annotators
+
+
+reviews: 14
+segments: 43
+source words (untokenised): 486
+
+en-hr
+annotators: 3
+target words -- Amazon: 434
+                Google: 417
+
+en-sr
+annotators: 4
+target words -- Amazon: 440
+                Google: 438
