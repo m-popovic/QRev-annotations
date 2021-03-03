@@ -23,7 +23,12 @@ When the highlighting errors was finished, one evaluator analysed the annotation
 
 The format of the annotations is:
 
-word|highlight|issue-type
+word|issue-type|highlight
+
+An example: 
+
+Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None
+
 
 
 The analysed MT outputs are divided in three rounds:
