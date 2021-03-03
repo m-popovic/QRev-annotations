@@ -1,5 +1,5 @@
 MT outputs from two DCU systems:  
-dcu-gen = trained on all publicly available parallel texts in OPUS from mixed domain
+dcu-gen = trained on all publicly available parallel texts in OPUS from mixed domain, without user reviews
 dcu-rev = trained on synthetically created (forward-translation) parallel text of user reviews and part of publicly available parallel data from OpenSubtitles
 (generated in September 2020) 
 
