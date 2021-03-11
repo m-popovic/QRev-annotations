@@ -9,12 +9,12 @@ en-hr: 2 annotators
 
 system  reviews segments  words
 Amazon: 62      514       7,631
-Bing:   35  
+Bing:   35      279       4,121
 Google: 54      424       6,316
 
 en-sr: 2 annotators
 
 system  reviews segments  words
 Amazon: 49      389       6,083
-Bing:   38
+Bing:   38      311       4,752
 Google: 47      357       5,550
