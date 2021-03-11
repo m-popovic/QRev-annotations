@@ -95,7 +95,7 @@ Također|None|None mi|None|None se|None|None sviđa|None|None što|None|None ih|
 Definitivno|None|None ću|None|None dobiti|AMBIGUITY|Major sve|CASE|Minor moje|CASE|Minor Cat|UNTRANSLATED|None Lover|UNTRANSLATED|None prijatelje|CASE|Minor ovu|None|None knjigu!|None|None 
 Ova|None|None knjiga|None|None je|None|None savršena!|None|None 
 Siromašni|AMBIGUITY+NOUN_PHRASE|Major punjač|NOUN_PHRASE|None za|NOUN_PHRASE|None mobitel|NOUN_PHRASE|None 
-Punjač|None|None je|None|None trajao|None|None samo|None|None tjedan|None|None dana|None|None XXX|SOURCE_ERROR|Major nakon|None|None toga,|None|None samo|None|None je|None|None prestao|None|None puniti|None|None moju|GENDER|Minor Samsung|None|None Galaxy|None|None S3.|None|None 
+Punjač|None|None je|None|None trajao|None|None samo|None|None tjedan|None|None dana|None|None XXX|SOURCE_ERROR+OMISSION|Major nakon|None|None toga,|None|None samo|None|None je|None|None prestao|None|None puniti|None|None moju|GENDER|Minor Samsung|None|None Galaxy|None|None S3.|None|None 
 Stvarno|None|None moraju|None|None početi|None|None popravljati|AMBIGUITY|None punjače...|None|None prošao|None|None sam|None|None kroz|None|None nekoliko|None|None njih!|None|None 
 Odlično|None|None radi|None|Minor .|None|None 
 Velika|None|None trgovina|None|None koja|None|None je|None|None sada|None|None u|None|None svakom|None|None gradu|None|None (ne|None|None mogu|None|None reći|None|None njihovo|None|None ime)|None|None ili|None|None ne|None|Minor nosi|AMBIGUITY|Minor ništa|None|None ili|None|None je|None|None uvijek|REPHRASING|Minor izvan|REPHRASING|Minor zaliha|REPHRASING|None .|None|None 
@@ -121,7 +121,7 @@ Preporučujem|None|None ovo|None|None svima|None|None koji|None|None misle|None|
 Kutija|None|None je|None|None potpuno|None|None uništena!!!!!!!!!!!!!!!!!!!!!|None|None 
 Ja|None|None sam|None|None uništen|AMBIGUITY|Major !|None|None 
 Dobio|AMBIGUITY|Major sam|None|None ovo|None|None za|None|None Božić|None|None za|None|None unuče|None|None koje|None|Major ga|None|Major je|None|Major upravo|None|Major primilo|None|Major i|None|None kutija|None|None koju|SOURCE_ERROR|Major je|None|None potpuno|None|None pocepala|SOURCE_ERROR|Major XXX|OMISSION|Major !|None|None 
-XXX|REPHRASING|Major Ono|REPHRASING|Minor što|REPHRASING|Minor ne|REPHRASING|Minor ocjenjujem|REPHRASING|Minor za|REPHRASING|Minor slagalicu|REPHRASING|Minor ,|None|None već|None|None za|None|None ambalažu!|None|None 
+XXX|REPHRASING+OMISSION|Major Ono|REPHRASING|Minor što|REPHRASING|Minor ne|REPHRASING|Minor ocjenjujem|REPHRASING|Minor za|REPHRASING|Minor slagalicu|REPHRASING|Minor ,|None|None već|None|None za|None|None ambalažu!|None|None 
 Hoćeš|PERSON|Minor li|None|None ga|None|None zamijeniti|None|None ili|None|None poslati|None|None novi…|None|None 
 Odličan|None|None alat|None|None za|None|None učenje.|None|None 
 Moj|None|None sin|None|None voli|None|None ovo|None|None sastaviti|ASPECT|Minor i|None|None rastaviti|ASPECT|Minor .|None|None 

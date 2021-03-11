@@ -33,7 +33,7 @@ Kupit|None|None će|PERSON|Minor lokalno|None|None u|AMBIGUITY|None budućnosti|
 Više|None|None mlijeka|None|None sigurno…|None|None 
 Kupio|None|None sam|None|None ovo|None|None za|None|None ženu|None|None jer|None|None nije|None|None proizvodila|AMBIGUITY|Minor dovoljno|None|None mlijeka|None|None za|None|None naše|None|None novorođenče.|None|None 
 U|None|None jednom|None|None danu|None|None je|None|None primijetila|None|None da|None|None je|None|None počela|None|None proizvoditi|AMBIGUITY|Minor puno|None|None više|None|None mlijeka.|None|None 
-Mnogo|None|None više|None|None mlijeka|None|None XXX|AMBIGUITY|Minor da|AMBIGUITY|None imamo|None|None višak|None|None u|None|None zamrzivaču.|None|None 
+Mnogo|None|None više|None|None mlijeka|None|None XXX|AMBIGUITY+OMISSION|Minor da|AMBIGUITY|None imamo|None|None višak|None|None u|None|None zamrzivaču.|None|None 
 Nisam|None|None siguran|None|None što|None|None uzrokuje|None|None proizvodnju|None|None mlijeka,|None|None ali|None|None ovo|None|Minor je|PASSIVE|Minor preporučeno|PASSIVE|Minor od|PASSIVE|Minor njenog|PASSIVE|Minor liječnika|PASSIVE|Minor .|None|None 
 Jako|None|None mi|None|None se|None|None sviđa|None|None med...|None|None jako|None|None mi|None|None se|None|None sviđa|None|None ovaj|None|None med.|None|None 
 Probala|None|None sam|None|None puno|None|None različitih|None|None cura|MISTRANSLATION|Major .|None|None 
