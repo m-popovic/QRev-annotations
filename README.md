@@ -22,6 +22,21 @@ Each translation output was annotated by at least two evaluators.  In total, 15 
 
 When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues. 
 
+
+The evaluation had been performed in three rounds, therefore there are three folders: 
+
+-- "first-round":  first preliminary round covering a short text (8 reviews) translated by Amazon and Google
+
+-- "second-round": covering the remaining source text (142 reviews) translated by Amazon, Bing and Google
+
+-- "third round":  covering a part of the source text (87 reviews) translated by the two in-house systems
+
+
+The names of the files in each of these three folders are in the following format:
+
+ROUND_SOURCE-TARGET_MT-SYSTEM_CRITERION-issue-types_EVALUATOR.txt
+
+
 The format of the annotations is:
 
 word|issue-type|highlight
@@ -31,24 +46,14 @@ An example:
 Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None
 
 
-
-The analysed MT outputs are divided in three rounds:
-
-"first-round":  first preliminary round covering a short text translated by Amazon and Google
-
-"second-round": covering the remaining source text translated by Amazon, Bing and Google
-
-"third round":  covering the translations by the two in-house systems
-
-
 There are two more folders: 
 
-"src+hyp+ref": contains all MT outputs (not only annoated) together with the source text and the reference translations into two target languages. 
+-- "src+hyp+ref": contains all MT outputs (not only annoated) together with the source text and the reference translations into two target languages. 
 
-"initial-analysis" contains results of initial analysis of relation between  comprehensibility and adequacy errors published at CoNLL 2020
+-- "initial-analysis" contains results of initial analysis of relation between  comprehensibility and adequacy errors published at CoNLL 2020
 
 
-This data set is publicly available for use under Creative Commons CC-BY. 
+The entire data set is publicly available for use under Creative Commons CC-BY. 
 If you use any part of this data set, please cite the COLING paper (2020) which introduces it: 
 
 @inproceedings{evaluation20,
