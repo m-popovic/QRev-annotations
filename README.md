@@ -11,7 +11,7 @@ Amazon product reviews https://jmcauley.ucsd.edu/data/amazon/
 
 150 reviews were selected (122 Amazon reviews and 28 IMDb reviews) containing 1170 segments and 16807 untokenised words. 
 They were translated into Croatian and into Serbian by five MT systems: 
-three online systems (Amazon, Bing, Google) and two in-house systems (DCU-general-domain and DCU-review-domain) 
+three online systems (Amazon, Bing, Google) and two in-house systems (DCU-gen and DCU-rev) 
 
 In total, 1500 review translations were created (150 reviews translated by five MT systems into two target languages, 150*5*2). However, not all translated reviews were annotated, only a subset consisting of 452 translated reviews. 
 
