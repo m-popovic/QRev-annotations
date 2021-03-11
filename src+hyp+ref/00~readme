@@ -1,1 +1,18 @@
-Complete English source text with all MT hypotheses (and HT references)
+The complete English source text:
+
+en.src.txt
+
+and IDs:
+
+en.src.id
+
+
+All complete system outputs (not only evaluated parts):
+
+SOURCE-TARGET.SYSTEM.hyp.txt
+
+
+Human reference translations:
+
+hr.ref.txt
+sr.ref.txt
