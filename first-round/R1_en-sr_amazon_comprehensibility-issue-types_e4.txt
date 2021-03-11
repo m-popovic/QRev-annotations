@@ -19,7 +19,7 @@ Dobar|None|None proizvod.|None|None
 Lako|None|None se|None|None svari|None|None (za|None|None razliku|None|None od|None|None nekih|None|None drugih|None|None dodataka|AMBIGUITY|Major gvožđa).|None|None 
 strašan|AMBIGUITY|Minor 
 Ovo|None|None je|None|None jedan|GENDER|None od|None|None mojih|None|None omiljenih|None|None poslastica,|None|None i|None|None brzo|None|None se|None|None topi|None|None u|None|None ustima.|None|None 
-Ovaj|None|None brend|None|None je|None|None dobar|None|None i|None|None isporučuje|PASSIVE|None XXX|PASSIVE|Minor dobro|None|None upakovan|None|None .|None|None 
+Ovaj|None|None brend|None|None je|None|None dobar|None|None i|None|None isporučuje|PASSIVE|None XXX|PASSIVE+OMISSION|Minor dobro|None|None upakovan|None|None .|None|None 
 Svako|None|None bi|None|None trebalo|None|None da|None|None probaju|PERSON|Minor ovo|None|None jednom.|None|None 
 Cena|NOUN_PHRASE|Minor Amazona|NE+NOUN_PHRASE|Minor je|None|None mnogo|None|None bolja|None|None od|None|None onih|None|None koje|None|None nađete|ASPECT|Minor na|None|None sajmovima|None|None nauke.|None|None 
 ODLIČAN|None|None ZA|None|None MLADE|None|None I|None|None STARE|None|None 
@@ -31,7 +31,7 @@ To|None|Minor je|None|None još|None|None jedan|None|None loš|None|None zombi|N
 U|None|None poređenju|None|None sa|None|None većinom|None|None onih|extDET|Major drugih,|None|None jedina|None|None razlika|None|None ovde|None|None je|None|None XXX|OMISSION|Minor glavni|None|None lik|None|None je|None|None ženka|AMBIGUITY|None .|None|None 
 Parcela|AMBIGUITY|Major je|None|None ista.|None|None 
 Akcione|None|None scene|None|None nisu|None|None angažovane|AMBIGUITY|Minor .|None|None 
-Specijalni|None|None efekti|None|None su|None|None tako|MISTRANSLATION|None XXX|MISTRANSLATION|Major .|None|None 
+Specijalni|None|None efekti|None|None su|None|None tako|MISTRANSLATION|None XXX|MISTRANSLATION+OMISSION|Major .|None|None 
 Nije|None|None baš|None|None dobro|None|None napravljen|None|None 
 IoIo|NON_EXISTING|None izgleda|None|None van|None|Major ravnoteže.|None|Major 
 Bez|None|Minor obzira|None|Minor koliko|REPHRASING|None briga|REPHRASING|Major sam|REPHRASING|None koristio|REPHRASING|None u|REPHRASING|None bacanju|REPHRASING|None ,|None|None to|extPRON|Major je|None|None želeo|AMBIGUITY|Major naginjati|None|None na|None|None jednu|None|None stranu.|None|None 

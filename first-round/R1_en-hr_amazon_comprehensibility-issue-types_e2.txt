@@ -21,7 +21,7 @@ Fenomenalno|None|None
 Ovo|None|None je|None|None jedan|None|None od|None|None mojih|None|None omiljenih|None|None deserta|None|None i|None|None brzo|None|None se|None|None topi|None|None u|None|None ustima.|None|None 
 Ova|None|None marka|None|None je|None|None dobra|None|None i|None|None isporučena|PASSIVE|None dobro|None|None zapakirana.|None|None 
 Svatko|None|None bi|None|None trebao|None|None probati|None|None ovaj|PRON|Minor jednom.|None|None 
-Cijena|NOUN_PHRASE|None XXX|NOUN_PHRASE|Minor Amazone|NE+NOUN_PHRASE|Minor je|None|None puno|None|None bolja|None|None od|None|None onih|None|None koje|None|None nađete|ASPECT|None na|None|None znanstvenim|NOUN_PHRASE|Major sajmovima|NOUN_PHRASE|Major .|None|None 
+Cijena|NOUN_PHRASE|None XXX|NOUN_PHRASE+OMISSION|Minor Amazone|NE+NOUN_PHRASE|Minor je|None|None puno|None|None bolja|None|None od|None|None onih|None|None koje|None|None nađete|ASPECT|None na|None|None znanstvenim|NOUN_PHRASE|Major sajmovima|NOUN_PHRASE|Major .|None|None 
 ODLIČAN|None|None ZA|None|None MLADE|None|None I|None|None STARE|None|None 
 Ovo|None|None je|None|None fantastična|None|None zagonetka|AMBIGUITY|None /poklon|None|None za|None|None mlade|None|None i|None|None stare.|None|None 
 To|None|Major je|PERSON|Major 32|None|Major trokutastih|None|Major jakih|None|Major magnetskih|None|Major komada|AMBIGUITY|Major koji|None|None se|None|None mogu|None|None uklopiti|AMBIGUITY|Minor zajedno|None|None na|None|None širok|AMBIGUITY|None broj|None|None načina.|None|None 

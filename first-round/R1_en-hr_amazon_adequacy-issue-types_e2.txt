@@ -31,7 +31,7 @@ XXX|OMISSION|Minor Još|None|None jedan|None|None loš|None|None zombi|NOUN_PHRA
 U|None|None usporedbi|None|None s|None|None većinom|None|None drugih,|None|None jedina|None|None razlika|None|None ovdje|None|None je|None|None XXX|OMISSION|Minor glavni|None|None lik|None|None je|None|Minor žensko.|None|None 
 Parcela|AMBIGUITY|Major je|None|None ista.|None|None 
 Akcijske|None|None scene|None|None nisu|None|None zanimljive.|None|None 
-Specijalni|None|None efekti|None|None su|None|None tako|MISTRANSLATION|None XXX|MISTRANSLATION|Major .|None|None 
+Specijalni|None|None efekti|None|None su|None|None tako|MISTRANSLATION|None XXX|MISTRANSLATION+OMISSION|Major .|None|None 
 Nije|None|None baš|None|None dobro|None|None napravljeno.|None|None 
 Yoyo|UNTRANSLATED|Major izgleda|None|None izvan|None|None ravnoteže.|None|None 
 Bez|None|None obzira|None|None na|REPHRASING|Minor brigu|REPHRASING|Minor koju|REPHRASING|Minor sam|REPHRASING|Minor koristio|REPHRASING|Minor u|REPHRASING|Minor bacanju|REPHRASING|Minor ,|None|None želio|AMBIGUITY|Minor je|None|Minor naginjati|None|None na|None|None jednu|None|None stranu.|None|None 

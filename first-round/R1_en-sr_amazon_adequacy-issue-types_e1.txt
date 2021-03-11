@@ -19,7 +19,7 @@ Dobar|None|None proizvod.|None|None
 Lako|None|None se|None|None svari|None|None (za|None|None razliku|None|None od|None|None nekih|None|None drugih|None|None dodataka|AMBIGUITY|Minor gvožđa|None|Minor ).|None|None 
 strašan|AMBIGUITY|Major 
 Ovo|None|None je|None|None jedan|GENDER|Minor od|None|None mojih|None|None omiljenih|None|None poslastica,|None|None i|None|None brzo|None|None se|None|None topi|None|None u|None|None ustima.|None|None 
-Ovaj|None|None brend|None|Minor je|None|None dobar|None|None i|None|None isporučuje|PASSIVE|Minor XXX|PASSIVE|Minor dobro|None|None upakovan|None|None .|None|None 
+Ovaj|None|None brend|None|Minor je|None|None dobar|None|None i|None|None isporučuje|PASSIVE|Minor XXX|PASSIVE+OMISSION|Minor dobro|None|None upakovan|None|None .|None|None 
 Svako|None|None bi|None|Minor trebalo|None|Minor da|None|Minor probaju|PERSON|Minor ovo|None|None jednom.|None|None 
 Cena|NOUN_PHRASE|Major Amazona|NE+NOUN_PHRASE|Major je|None|None mnogo|None|None bolja|None|None od|None|None onih|None|None koje|None|None nađete|ASPECT|Minor na|None|None sajmovima|None|None nauke.|None|None 
 ODLIČAN|None|Minor ZA|None|None MLADE|None|None I|None|None STARE|None|None 
@@ -35,7 +35,7 @@ Specijalni|None|None efekti|None|None su|None|None tako|MISTRANSLATION|Major .|N
 Nije|None|None baš|None|None dobro|None|None napravljen|None|None 
 IoIo|NON_EXISTING|Major izgleda|None|Major van|None|Minor ravnoteže|None|Minor .|None|None 
 Bez|None|None obzira|None|None koliko|None|None briga|REPHRASING|Major sam|REPHRASING|Major koristio|REPHRASING|Major u|REPHRASING|Minor bacanju|REPHRASING|Minor ,|None|None to|extPRON|Minor je|None|None želeo|AMBIGUITY|Minor naginjati|None|Minor na|None|None jednu|None|None stranu.|None|None 
-Otežano|REPHRASING|Major XXX|REPHRASING|Major tosleep|UNTRANSLATED+SOURCE_ERROR+REPHRASING|Major ili|REPHRASING|Major da|REPHRASING|Major XXX|REPHRASING|Major trikove|REPHRASING|Major .|None|None 
+Otežano|REPHRASING|Major XXX|REPHRASING+OMISSION|Major tosleep|UNTRANSLATED+SOURCE_ERROR+REPHRASING|Major ili|REPHRASING|Major da|REPHRASING|Major XXX|REPHRASING+OMISSION|Major trikove|REPHRASING|Major .|None|None 
 Imam|None|None malo|None|Major iskustvavith|SOURCE_ERROR|Major IoOS|NON_EXISTING|Major i|None|None nisu|PERSON|Major imali|PERSON|Major ovaj|None|None problem|None|None sadrugi|SOURCE_ERROR|Major .|None|None 
 apsolutno|None|Minor prekratak|None|Minor da|None|None bi|None|None bio|None|None efikasan|None|None 
 Ako|None|None pravilno|None|None obmotate|None|None zglobove,|None|None videćete|None|None da|None|None su|None|None i|None|None suviše|None|None uski|None|None i|None|None prekratki,|None|None suviše|None|Minor kratki|None|Minor .|None|None 
