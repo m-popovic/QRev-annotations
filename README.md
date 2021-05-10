@@ -11,7 +11,7 @@ Amazon product reviews https://jmcauley.ucsd.edu/data/amazon/
 
 150 reviews were selected (122 Amazon reviews and 28 IMDb reviews) containing 1170 segments and 16807 untokenised words. 
 They were translated into Croatian and into Serbian by five MT systems: 
-three online systems (Amazon, Bing, Google) and two in-house systems (DCU-gen and DCU-rev) trained on publicly available data.
+three online systems ("Amazon", "Bing", "Google") and two in-house systems ("DCU-gen" and "DCU-rev") trained on publicly available data using the Sockeye implementation. (https://github.com/awslabs/sockeye)
 
 In total, 1500 review translations were created (150 reviews translated by five MT systems into two target languages, 150*5*2). However, not all translated reviews were annotated, only a subset consisting of 452 translated reviews. 
 
@@ -20,7 +20,7 @@ These selected MT outputs were first given to human evaluators which highlighted
 The evaluators were asked to annotate comprehension (comprehensibility, readability) errors (without access to the original source text), and afterwards to annotate adequacy (accuracy, fidelity) errors (by comparing the translation to the original source text). For each criterion, the evaluators were asked to distingush between major and minor errors. 
 Each translation output was annotated by at least two evaluators.  In total, 15 evaluators participated in the annotation. 
 
-When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues. 
+<!--- When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues.  ---> 
 
 
 The evaluation had been performed in three rounds, therefore there are three folders: 
@@ -37,18 +37,18 @@ The names of the files in each of these three folders are in the following forma
 ROUND_SOURCE-TARGET_MT-SYSTEM_CRITERION-issue-types_EVALUATOR.txt
 
 
-The format of the annotations is:
+<!--- The format of the annotations is: --->
 
-word|issue-type|highlight
+<!---  word|issue-type|highlight --->
 
-An example: 
+<!---  An example: --->
 
-Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None
+<!--- Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None --->
 
 
 There are two more folders: 
 
--- "src+hyp+ref": contains all MT outputs (not only annoated) together with the source text and the reference translations into two target languages. 
+-- "src+hyp+ref": contains complete MT outputs (all reviews, not only annotated ones) together with the source text and the reference translations into two target languages. 
 
 -- "initial-analysis" contains results of initial analysis of relation between  comprehensibility and adequacy errors published at CoNLL 2020
 
