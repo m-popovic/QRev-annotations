@@ -1,3 +1,14 @@
 German MT outputs from Uni Heidelberg.
 
 Original annotations: https://www.cl.uni-heidelberg.de/statnlpgroup/humanmt/
+
+If you use any part of this part of the corpus, please cite the following publication:
+
+@article{kreutzer2020a,
+  author = {Kreutzer, Julia and Berger, Nathaniel and Riezler, Stefan},
+  year = {2020},
+  title = {{Correct Me If You Can: Learning from Error Corrections and Markings}},
+  journal = {Proceedings of the 22nd Annual Conference of the European Association for Machine Translation (EAMT 20)},
+  journal-abbrev = {EAMT 2020},
+  city = {Lisbon, Portugal},
+}
