@@ -20,7 +20,7 @@ These selected MT outputs were first given to human evaluators which highlighted
 The evaluators were asked to annotate comprehension (comprehensibility, readability) errors (without access to the original source text), and afterwards to annotate adequacy (accuracy, fidelity) errors (by comparing the translation to the original source text). For each criterion, the evaluators were asked to distingush between major and minor errors. 
 Each translation output was annotated by at least two evaluators.  In total, 15 evaluators participated in the annotation. 
 
-<!--- When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues.  ---> 
+When the highlighting errors was finished, one evaluator analysed the annotations and identified types and causes of marked issues.
 
 
 The evaluation had been performed in three rounds, therefore there are three folders: 
@@ -37,13 +37,13 @@ The names of the files in each of these three folders are in the following forma
 ROUND_SOURCE-TARGET_MT-SYSTEM_CRITERION-issue-types_EVALUATOR.txt
 
 
-<!--- The format of the annotations is: --->
+The format of the annotations is:
 
-<!---  word|issue-type|highlight --->
+word|issue-type|highlight
 
-<!---  An example: --->
+An example:
 
-<!--- Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None --->
+ Philip|NE+NOUN_PHRASE|Major Glass|NE+NOUN_PHRASE|Major soundtrack|UNTRANSLATED+NOUN_PHRASE|Major odlično|None|None komplikuje|MISTRANSLATION+SOURCE_ERROR|Major film.|None|None
 
 
 There are two more folders: 
